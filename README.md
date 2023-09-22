@@ -23,4 +23,12 @@ This project demonstrates how to build a movie recommendation system using the M
 
 The MovieLens dataset used in this project contains information about movie ratings, user profiles, and movie details. The dataset includes 100,000 ratings from 943 users on 1,682 movies.
 
-- Dataset Link: MovieLens Dataset
+- Dataset Link: [MovieLens Dataset](https://github.com/Leni-Nikitaa/Movie-Recommendation/tree/main/MovieLens-Dataset)
+
+## Project Structure
+
+The project is organized as follows:
+
+- `Movie_Recommendation_using_Movielens_dataset.ipynb`: Jupyter Notebook containing the code for building the recommendation system.
+- `MovieLens-Dataset`: Directory containing the MovieLens dataset files.
+- `README.md`: This README file.
